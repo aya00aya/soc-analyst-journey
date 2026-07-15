@@ -36,5 +36,10 @@ On 2026-02-28 at approximately 19:55 UTC, the internal host at `10.2.28.88` was 
 ## Indicators of Compromise (IOCs)
 - **IP Address:** 45.131.214.85
 - **Port:** 443
+
+## Victim Information
+- **Internal IP:** 10.2.28.88
+- **MAC Address:** 00:19:d1:b2:4d:ad (Intel)
+- **Hostname:** [We still need to find this!]
 - **Protocol:** TCP/TLS
 - **Victim IP:** 10.2.28.88
